@@ -1,21 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat&family=DynaPuff&family=Montserrat:wght@500&display=swap');
+
+
 :root {
-    --primary-color: #663399 ;
-    --secondary-color: #451176 ;
-    --text-color: #f1f1f1;
-    --button-color: #ec9a02;
+    --primary-color: #7e5f40 ;
+    --secondary-color: #3d2d1d ;
+    --text-color: #000000;
+    --button-color: #c7bcb1;
 }
 
 
 * { box-sizing: border-box; }
 body {
     margin: 0;
-    font-family: sans-serif;
     background-color: var(--primary-color);
     color: var(--text-color);
     display: flex;
     align-items: center;
     justify-content: center;
     min-height: 100vh;
+    font-family: 'DynaPuff', cursive;
 }
 
 .pw-container {
@@ -31,7 +34,7 @@ body {
 .pw {
     width: 100%;
     height: 70px;
-    background-color: var(--primary-color);
+    background-color: var(--button-color);
     display: flex;
     align-items: center;
     position: relative;
@@ -46,11 +49,11 @@ body {
     transform: translate(0, 50%);
     transition: opacity 0.2s ease, transform 0.3s ease;
     opacity: 0; 
-    background-color: rgb(35, 5, 66);
+    background-color: #52361b;
     padding: 0.25rem 1rem;
     font-family: inherit;
     font-weight: bold;
-    color: var(--text-color);
+    color: white;
     border: none;
     cursor: pointer;
 }
@@ -82,4 +85,11 @@ body {
     border: none;
     width: 100%;
     cursor: pointer;
+    font-family: 'DynaPuff', cursive;
+}
+
+label {
+    text-shadow: 1px 1px #f1f1f1, 5px 5px rgb(0, 0, 0);
+    -webkit-text-fill-color: transparent;
+    stroke-width: 4px;
 }
