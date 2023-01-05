@@ -20,7 +20,7 @@ You should also be able to copy the generated password to your clipboard by clic
 
 ## Screenshots
 
-![first page](https://prnt.sc/VY6qqv8tO_iY)
+![first page](https://user-images.githubusercontent.com/114919739/210868262-f631db82-4c9f-411f-9eb7-2302feef984a.png)
 
 ![generated password](https://prnt.sc/_RUgVe1QCWXP)
 
