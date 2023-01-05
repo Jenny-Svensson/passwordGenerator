@@ -10,6 +10,7 @@
 * {
   box-sizing: border-box;
 }
+
 body {
   margin: 0;
   background-color: var(--primary-color);
@@ -19,6 +20,14 @@ body {
   justify-content: center;
   min-height: 100vh;
   font-family: "DynaPuff", cursive;
+}
+
+h1 {
+    background-color: var(--primary-color);
+    padding: 10px;
+    text-align: center;
+    border-bottom: 5px dotted white;
+    border-top: 5px dotted white;
 }
 
 .pw-container {
