@@ -22,6 +22,6 @@ You should also be able to copy the generated password to your clipboard by clic
 
 ![first page](https://user-images.githubusercontent.com/114919739/210868262-f631db82-4c9f-411f-9eb7-2302feef984a.png)
 
-![generated password](https://prnt.sc/_RUgVe1QCWXP)
+![generated password](https://user-images.githubusercontent.com/114919739/210868443-d35602bf-c563-4f64-9dcb-b9753200a5c0.png)
 
-![the copy-button when hover](https://prnt.sc/LQD6RtFO7anI)
+![the copy-button when hover](https://user-images.githubusercontent.com/114919739/210868449-24d696fb-3f56-4bf5-9d83-88773b58ef96.png)
