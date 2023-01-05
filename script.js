@@ -80,4 +80,4 @@ function copyPassword() {
   document.execCommand("copy");
   textarea.remove();
   alert("copied!");
-}
+};
